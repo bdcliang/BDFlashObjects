@@ -7,9 +7,9 @@ platform:
 Windows .NET Frameworks 2.0+
 
 Usage:
-1.Complie the project and get the assembly
-2.chose from the toolbox
-3.the drag the control ShockwaveFlash to your designer
-4.load the flash
-
+1.Complie the project and get the assembly</br>
+2.chose from the toolbox</br>
+3.the drag the control ShockwaveFlash to your designer</br>
+4.load the flash</br>
+5.other usage please refrence the ShockwaveFlash API
 
