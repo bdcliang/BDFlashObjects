@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("BDFlashObjects a wraper of shockwave flash target for .net2.0")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("BDCONNECT")]
-[assembly: AssemblyProduct("BDFlashObjects")]
+[assembly: AssemblyProduct("BDFlashObjects.NET2.0")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
